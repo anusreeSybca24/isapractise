@@ -8,4 +8,8 @@ public class caterpillar {
 		this.move=moves;
 		this.cabagge=cabagge;
 	}
+	
+	int moves() {
+		return move;
+	}
 }
